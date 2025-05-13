@@ -23,4 +23,4 @@ Objective: The "CocaCola Sales Data" project is designed to empower beverage ind
   
 - Operational Efficiency: Streamline inventory management and distribution processes for improved operational efficiency.
   
-Conclusion: "Beverage Sales Data" is more than a visualization tool; it's a strategic asset for stakeholders in the beverage industry. Whether identifying new market opportunities or optimizing existing operations, this Power BI project transforms data into actionable intelligence for sustained success in the dynamic beverage market. 
+Conclusion: "Beverage Sales Data" is more than a visualization tool; it's a strategic asset for stakeholders in the beverage industry. Whether identifying new market opportunities or optimizing existing operations, this Power BI project transforms data into actionable intelligence for sustained success in the dynamic beverage market. https://1drv.ms/u/c/53d9d0eaf14ddcbb/ER4HrSGi4wBCoYThcaRwAv4B1x3vuTM9WeM0nCyi81OWFA?e=P8H6h0
