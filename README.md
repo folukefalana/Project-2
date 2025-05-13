@@ -27,5 +27,7 @@ Conclusion: "Beverage Sales Data" is more than a visualization tool; it's a stra
 
 ### Data Visualization
 
-[![Alt Text](https://github.com/folukefalana/Project-2/blob/main/Beverage%20Data.pbix)]
+[!(https://github.com/folukefalana/Project-2/blob/main/Beverage%20Data.pbix)]
+
+https://github.com/folukefalana/Project-2/raw/refs/heads/main/Beverage%20Data.pbix
 
